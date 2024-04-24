@@ -224,7 +224,8 @@ h1,h2,h3,h4,h5,h6,figure {
     padding: 4px 10px;
     display: -moz-inline-stack;
     display: inline-block;
-    zoom:1;*display: inline;
+    zoom:1;
+    display: inline;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
@@ -524,11 +525,15 @@ h1,h2,h3,h4,h5,h6,figure {
 }
 
 .frame-alumno-ulima {
-    width: 90%;
+    width: 70%;
+    height: 20%;
+    border: 1;
+    background-color: #46b8da;
     padding: 3em;
     -webkit-box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.13);
     -moz-box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.13);
     box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.13)
+    
 }
 
 @media screen and (max-width: 768px) {
@@ -701,13 +706,15 @@ h1,h2,h3,h4,h5,h6,figure {
     list-style: none;
     display: -moz-inline-stack;
     display: inline-block;
-    zoom:1;*display: inline
+    zoom:1;
+    display: inline;
 }
 
 .fh5co-social-icons li a {
     display: -moz-inline-stack;
     display: inline-block;
-    zoom:1;*display: inline;
+    zoom:1;
+    display: inline;
     color: #DD356E;
     padding-left: 10px;
     padding-right: 10px

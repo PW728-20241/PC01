@@ -525,8 +525,8 @@ h1,h2,h3,h4,h5,h6,figure {
 }
 
 .frame-alumno-ulima {
-    width: 70%;
-    height: 20%;
+    width: 80%;
+    height: 30%;
     border: 1;
     background-color: #69da46;
     font-family: 'Times New Roman', Times, serif;
@@ -545,7 +545,7 @@ h1,h2,h3,h4,h5,h6,figure {
 }
 
 .frame-alumno-ulima h3 {
-    line-height: 34px
+    line-height: 36px
 }
 
 .frame-alumno-ulima p {

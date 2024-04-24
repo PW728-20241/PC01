@@ -560,6 +560,10 @@ h1,h2,h3,h4,h5,h6,figure {
     color: #2A528A
 }
 
+.frame-alumno-ulima h3 {
+    background-color: white;
+}
+
 #fh5co-slider {
     background: #2A528A
 }

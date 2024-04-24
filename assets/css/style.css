@@ -523,7 +523,7 @@ h1,h2,h3,h4,h5,h6,figure {
     font-weight: bold
 }
 
-.user-frame {
+.frame-alumno-ulima {
     width: 90%;
     padding: 3em;
     -webkit-box-shadow: 0px 0px 24px 0px rgba(0,0,0,0.13);
@@ -532,25 +532,25 @@ h1,h2,h3,h4,h5,h6,figure {
 }
 
 @media screen and (max-width: 768px) {
-    .user-frame {
+    .frame-alumno-ulima {
         width:100%;
         margin-bottom: 3em
     }
 }
 
-.user-frame h3 {
+.frame-alumno-ulima h3 {
     line-height: 34px
 }
 
-.user-frame p {
+.frame-alumno-ulima p {
     color: rgba(0,0,0,0.6)
 }
 
-.user-frame span {
+.frame-alumno-ulima span {
     font-weight: bold
 }
 
-.user-frame small {
+.frame-alumno-ulima small {
     color: #2A528A
 }
 
